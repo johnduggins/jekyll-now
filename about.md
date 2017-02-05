@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Work
 
-### More Information
+I'm a professional security analyst, looking for vulnerabilities and responding to security incidents.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Personal
+
+I hate walking on the beach but enjoy video games and horror movies.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jduggins@jaittechnologies.com](mailto:jduggins@jaittechnologies.com)
